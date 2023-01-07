@@ -7,7 +7,7 @@
 |-------|-----|-----------------|-----------|-------|
 |Voltmaister|Admin| Orestis Artinopoulos|P2019153|[Know me!](https://github.com/voltmaister)|
 |Markedd|Member|Dimitra Markou|P2019170|[Know me!](https://github.com/marked-d)|
-|NickLitharis|Member|Nikos Litharis|P2019083|[Know me!](https://github.com/NickLitharis)|
+|NickLitharis|Admin|Nikos Litharis|P2019083|[Know me!](https://github.com/NickLitharis)|
 |KonstantinosTourtsakis|Member|Konstantinos Tourtsakis|P2019140|[Know me!](https://github.com/KonstantinosTourtsakis)|
 |odysseasEko|Member|Odysseas Oikonomou|P2019060|[Know me!](https://github.com/odysseasEko/)|
 |artopodama|Member|Giannis Anastasopoulos|inf2021017|[Know me!](https://github.com/artopodama/)|
